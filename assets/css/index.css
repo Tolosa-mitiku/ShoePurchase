@@ -1,0 +1,22 @@
+.footer p {
+    color: white;
+}
+.footer {
+    padding-top: 40px;
+}
+img {
+    height: 400px;
+    width: 300px;
+}
+label {
+    display: block;
+}
+form {
+    margin-left: 20px;
+}
+.cards img {
+    border-radius: 50%;
+}
+.cards {
+float: left;
+}
